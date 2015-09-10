@@ -13,7 +13,6 @@
   "main": "./lib/index.js",
   "dependencies": {
     "lodash": "^3.7.0",
-    "npm": "^2.14.1",
     "react": "^0.13.2",
     "request": "^2.61.0",
     "ssl-root-cas": "^1.1.10",
