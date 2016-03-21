@@ -2,7 +2,7 @@
   "name": "kerplunk-npm",
   "displayName": "NPM Kerplunk Plugin Search",
   "description": "Provides a public API to search for NPM modules with the tag `kerplunk-plugin`",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "keywords": [
     "kerplunk-plugin",
     "kp:Utility"
